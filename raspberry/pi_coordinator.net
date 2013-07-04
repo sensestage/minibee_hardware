@@ -1,0 +1,153 @@
+# EESchema Netlist Version 1.1 created  Fri 05 Jul 2013 00:59:30 CEST
+(
+ ( /51D5FCC6 SM1206POL D1 LED
+  ( 1 N-000013 )
+  ( 2 N-000041 )
+ )
+ ( /51D5FCC2 SM1206POL D2 LED
+  ( 1 N-000006 )
+  ( 2 N-000043 )
+ )
+ ( /51D5FCC3 SM1206POL D3 LED
+  ( 1 N-000008 )
+  ( 2 N-000045 )
+ )
+ ( /51D5FD77 SM1206POL D4 LED
+  ( 1 N-000046 )
+  ( 2 N-000042 )
+ )
+ ( /51D5FAB9 xbee_r1-XBEE M1 XBEE
+  ( 1 +3.3V )
+  ( 2 /RXD )
+  ( 3 /TXD )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 N-000013 )
+  ( 7 ? )
+  ( 8 ? )
+  ( 9 ? )
+  ( 10 GND )
+  ( 11 N-000046 )
+  ( 12 ? )
+  ( 13 N-000008 )
+  ( 14 ? )
+  ( 15 N-000006 )
+  ( 16 ? )
+  ( 17 ? )
+  ( 18 ? )
+  ( 19 ? )
+  ( 20 ? )
+ )
+ ( /51D5F9FC pin_array_13x2 P1 CONN_13X2
+  ( 1 +3.3V )
+  ( 2 ? )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 GND )
+  ( 7 ? )
+  ( 8 /TXD )
+  ( 9 ? )
+  ( 10 /RXD )
+  ( 11 ? )
+  ( 12 ? )
+  ( 13 ? )
+  ( 14 ? )
+  ( 15 ? )
+  ( 16 ? )
+  ( 17 ? )
+  ( 18 ? )
+  ( 19 ? )
+  ( 20 ? )
+  ( 21 ? )
+  ( 22 ? )
+  ( 23 ? )
+  ( 24 ? )
+  ( 25 ? )
+  ( 26 ? )
+ )
+ ( /51D5FCD6 SM0603 R1 R
+  ( 1 N-000041 )
+  ( 2 GND )
+ )
+ ( /51D5FD7A SM0603 R2 R
+  ( 1 N-000042 )
+  ( 2 GND )
+ )
+ ( /51D5FCDA SM0603 R3 R
+  ( 1 N-000045 )
+  ( 2 GND )
+ )
+ ( /51D5FCDD SM0603 R4 R
+  ( 1 N-000043 )
+  ( 2 GND )
+ )
+)
+*
+{ Allowed footprints by component:
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
