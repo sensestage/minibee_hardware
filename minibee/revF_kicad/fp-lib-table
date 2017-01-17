@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "MiniBee")(type Legacy)(uri "/home/nescivi/git/ssdn/minibee_hw/minibee/revD_kicad3/MiniBee.mod")(options "")(descr ""))
+)

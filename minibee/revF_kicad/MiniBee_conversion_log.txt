@@ -1,0 +1,78 @@
+#********** START OF renumber-sheet.ulp ULP Version 4.4.4 12-01-2017 :15:51:36 LOG **********#
+    Conversion completed with no Messages
+#********** END OF renumber-sheet.ulp ULP Version 4.4.4 12-01-2017 :15:51:36 LOG **********#
+
+#********** START OF fix_via_hack.ulp ULP Version 4.6.0 12-01-2017 :15:51:55 LOG **********#
+TRACK	WireCount=1		Net=A1				start(X=22733.000000 Y=8001.000000)	end(X=22733.000000 Y=8128.000000 )
+TRACK	WireCount=2		Net=D4				start(X=6365.000000 Y=7239.000000)	end(X=6350.000000 Y=7366.000000 )
+TRACK	WireCount=3		Net=GND				start(X=13020.000000 Y=22418.000000)	end(X=14574.900000 Y=23241.000000 )
+TRACK	WireCount=4		Net=N$6				start(X=23368.000000 Y=32893.000000)	end(X=24003.000000 Y=32893.000000 )
+TRACK	WireCount=5		Net=N$6				start(X=22479.000000 Y=32004.000000)	end(X=23368.000000 Y=32893.000000 )
+TRACK	WireCount=6		Net=N$6				start(X=21463.000000 Y=32004.000000)	end(X=22479.000000 Y=32004.000000 )
+TRACK	WireCount=7		Net=N$6				start(X=20320.000000 Y=33147.000000)	end(X=21463.000000 Y=32004.000000 )
+TRACK	WireCount=8		Net=N$6				start(X=19050.000000 Y=33147.000000)	end(X=20320.000000 Y=33147.000000 )
+TRACK	WireCount=9		Net=N$6				start(X=18415.000000 Y=32512.000000)	end(X=19050.000000 Y=33147.000000 )
+TRACK	WireCount=10		Net=N$6				start(X=18415.000000 Y=28829.000000)	end(X=18415.000000 Y=32512.000000 )
+TRACK	WireCount=11		Net=N$6				start(X=18923.000000 Y=28321.000000)	end(X=18923.000000 Y=28194.000000 )
+TRACK	WireCount=12		Net=N$6				start(X=18923.000000 Y=28321.000000)	end(X=18415.000000 Y=28829.000000 )
+TRACK	WireCount=13		Net=N$6				start(X=24003.000000 Y=32893.000000)	end(X=24142.000000 Y=33020.000000 )
+TRACK	WireCount=14		Net=N$6				start(X=18923.000000 Y=28209.000000)	end(X=18923.000000 Y=28194.000000 )
+TRACK	WireCount=15		Net=N$7				start(X=22606.000000 Y=21844.000000)	end(X=22606.000000 Y=26543.000000 )
+TRACK	WireCount=16		Net=N$7				start(X=22606.000000 Y=26543.000000)	end(X=23876.000000 Y=27813.000000 )
+TRACK	WireCount=17		Net=N$7				start(X=23876.000000 Y=27813.000000)	end(X=23876.000000 Y=29972.000000 )
+TRACK	WireCount=18		Net=N$7				start(X=23876.000000 Y=29972.000000)	end(X=24130.000000 Y=30226.000000 )
+TRACK	WireCount=19		Net=N$7				start(X=24130.000000 Y=30226.000000)	end(X=24130.000000 Y=30099.000000 )
+TRACK	WireCount=20		Net=N$7				start(X=24130.000000 Y=30226.000000)	end(X=24142.000000 Y=30200.600000 )
+TRACK	WireCount=21		Net=N$7				start(X=22606.000000 Y=21732.000000)	end(X=22606.000000 Y=21844.000000 )
+TRACK	WireCount=22		Net=N$10				start(X=5065.000000 Y=7239.000000)	end(X=3671.000000 Y=6985.000000 )
+TRACK	WireCount=23		Net=N$11				start(X=3937.000000 Y=7239.000000)	end(X=4953.000000 Y=7239.000000 )
+TRACK	WireCount=24		Net=N$11				start(X=3683.000000 Y=6985.000000)	end(X=3937.000000 Y=7239.000000 )
+TRACK	WireCount=25		Net=RX				start(X=2921.000000 Y=25527.000000)	end(X=2870.000000 Y=25494.000000 )
+TRACK	WireCount=26		Net=TX				start(X=1778.000000 Y=22352.000000)	end(X=2794.000000 Y=23368.000000 )
+TRACK	WireCount=27		Net=TX				start(X=2794.000000 Y=23368.000000)	end(X=2870.000000 Y=23494.000000 )
+TRACK	WireCount=28		Net=TX				start(X=1778.000000 Y=22320.300000)	end(X=1778.000000 Y=22352.000000 )
+TRACK	WireCount=29		Net=TX				start(X=2870.000000 Y=23292.000000)	end(X=2794.000000 Y=23368.000000 )
+TRACK	WireCount=30		Net=VCC				start(X=2794.000000 Y=27432.000000)	end(X=2870.000000 Y=27494.000000 )
+PADFILL	PadCount=2		Net=GND				(X=12446.000000 Y=22418.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=4		Net=GND				(X=19304.000000 Y=22418.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=7		Net=GND				(X=18370.000000 Y=13404.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=10		Net=GND				(X=5424.000000 Y=14822.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=12		Net=GND				(X=11677.256250 Y=8382.715625)	LayerStart=16	LayerEnd=16
+PADFILL	PadCount=17		Net=GND				(X=7477.400000 Y=14454.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=19		Net=GND				(X=7477.400000 Y=12854.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=35		Net=GND				(X=16062.600000 Y=13654.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=75		Net=GND				(X=8144.000000 Y=26526.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=80		Net=GND				(X=25642.000000 Y=31623.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=82		Net=GND				(X=25642.000000 Y=33020.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=84		Net=GND				(X=25642.000000 Y=30200.600000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=86		Net=GND				(X=2171.000000 Y=6985.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=102		Net=GND				(X=5470.000000 Y=9992.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=112		Net=GND				(X=22397.000000 Y=15422.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=114		Net=GND				(X=22397.000000 Y=17022.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=115		Net=GND				(X=22397.000000 Y=17822.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=120		Net=GND				(X=20197.000000 Y=17022.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=121		Net=GND				(X=20197.000000 Y=16222.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=122		Net=GND				(X=20197.000000 Y=15422.000000)	LayerStart=1	LayerEnd=1
+PADFILL	PadCount=127		Net=GND				(X=14701.900000 Y=23368.000000)	LayerStart=1	LayerEnd=1
+#********** END OF fix_via_hack.ulp ULP Version 4.6.0 12-01-2017 :15:51:55 LOG **********#
+
+#********** START OF eagle6xx-sch-to-kicad-sch.ulp 1.9 12-01-2017 :15:52:00 LOG **********#
+Package Name Conflict: Package=1X02 from Internal SCH lib=SparkFun  With Package=1X02 from LIB=myShit
+Package Name Conflict: Package=1X02 from Internal SCH lib=myShit  With Package=1X02 from LIB=SparkFun
+#********** END OF eagle6xx-sch-to-kicad-sch.ulp 1.9 12-01-2017 :15:52:00 LOG **********#
+
+#********** START OF exp-lbrs.ulp 6.6 12-01-2017 :15:52:05 LOG **********#
+OK: Eagle lib export from SCH/PCB OK
+    Conversion completed with no Messages
+#********** END OF exp-lbrs.ulp 6.6 12-01-2017 :15:52:05 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.7 12-01-2017 :15:52:14 LOG **********#
+Missing Prefix Part =''				MINIBEE_MYSHIT_PCM_SWITCH_RA					MiniBee		M
+Missing Prefix Part =''				MYSHIT_KEYSTONE_BATTERY_HOLDER					MiniBee		M
+Missing Prefix Part =PTH				SPARKFUN_RESONATOR-PTH					MiniBee		M
+Missing Prefix Part =SMD				SPARKFUN_RESONATOR-SMD					MiniBee		M
+Missing Prefix Part =SMD				SPARKFUN_SOT23-5					MiniBee		M
+Missing Prefix Part =SMD2				SPARKFUN_SC70					MiniBee		M
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.7 12-01-2017 :15:52:14 LOG **********#
+

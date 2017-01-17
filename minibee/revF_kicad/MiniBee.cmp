@@ -1,0 +1,234 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /58779879;
+Reference = C1;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /58779941;
+Reference = C2;
+ValeurCmp = C-EUC0805;
+IdModule  = RCL_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /58779A09;
+Reference = C3;
+ValeurCmp = C-EUC0402;
+IdModule  = RCL_C0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /58779AD1;
+Reference = C4;
+ValeurCmp = C-EUC0402;
+IdModule  = RCL_C0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /58779B99;
+Reference = C5;
+ValeurCmp = C-EUC0402K;
+IdModule  = RCL_C0402K;
+EndCmp
+
+BeginCmp
+TimeStamp = /58779C61;
+Reference = COINCELL12;
+ValeurCmp = KEYSTONE_BATTERY_HOLDER;
+IdModule  = MYSHIT_KEYSTONE_BATTERY_HOLDER;
+EndCmp
+
+BeginCmp
+TimeStamp = /58779D29;
+Reference = F1;
+ValeurCmp = PTCSMD;
+IdModule  = SPARKFUN_PTC-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877A305;
+Reference = IC1;
+ValeurCmp = MEGA8-AI;
+IdModule  = ATMEL_TQFP32-08;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877A3CD;
+Reference = JP1;
+ValeurCmp = PINHD-2X10;
+IdModule  = MYSHIT_2X10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877A495;
+Reference = JP2;
+ValeurCmp = PINHD-1X2;
+IdModule  = MYSHIT_1X02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877A55D;
+Reference = JP3;
+ValeurCmp = PINHD-1X1;
+IdModule  = MYSHIT_1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877A625;
+Reference = JP4;
+ValeurCmp = PINHD-1X1;
+IdModule  = MYSHIT_1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877A6ED;
+Reference = JP5;
+ValeurCmp = PINHD-1X1;
+IdModule  = MYSHIT_1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877A7B5;
+Reference = JP6;
+ValeurCmp = PINHD-1X2;
+IdModule  = MYSHIT_1X02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877A87D;
+Reference = JP7;
+ValeurCmp = PINHD-1X1;
+IdModule  = MYSHIT_1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877A945;
+Reference = JST_CONNECTOR12;
+ValeurCmp = M02-JST-2MM-SMT;
+IdModule  = SPARKFUN_S2B-PH;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877AA0D;
+Reference = LED1;
+ValeurCmp = LEDCHIP-LED0603;
+IdModule  = LED_CHIP-LED0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877AAD5;
+Reference = LED2;
+ValeurCmp = LEDCHIP-LED0603;
+IdModule  = LED_CHIP-LED0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877AB9D;
+Reference = LED3;
+ValeurCmp = LEDCHIP-LED0603;
+IdModule  = LED_CHIP-LED0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877AC65;
+Reference = LED4;
+ValeurCmp = LEDCHIP-LED0603;
+IdModule  = LED_CHIP-LED0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877B0B1;
+Reference = R1;
+ValeurCmp = R-EU_R0402;
+IdModule  = RCL_R0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877B179;
+Reference = R2;
+ValeurCmp = R-EU_R0402;
+IdModule  = RCL_R0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877B241;
+Reference = R3;
+ValeurCmp = R-EU_R0402;
+IdModule  = RCL_R0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877B309;
+Reference = R4;
+ValeurCmp = R-EU_R0402;
+IdModule  = RCL_R0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877B3D1;
+Reference = R5;
+ValeurCmp = R-EU_R0402;
+IdModule  = RCL_R0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877B499;
+Reference = R6;
+ValeurCmp = R-EU_R0402;
+IdModule  = RCL_R0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877B561;
+Reference = R7;
+ValeurCmp = R-EU_R0402;
+IdModule  = RCL_R0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877B629;
+Reference = RESONATOR12;
+ValeurCmp = RESONATORSMD;
+IdModule  = SPARKFUN_RESONATOR-SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877B6F1;
+Reference = SWITCH12;
+ValeurCmp = MYSHIT_PCM_SWITCH;
+IdModule  = MINIBEE_MYSHIT_PCM_SWITCH_RA;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877B7B9;
+Reference = U1;
+ValeurCmp = ADXL345;
+IdModule  = SPARKFUN_LGA14;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877B881;
+Reference = VP_0;
+ValeurCmp = VPDEV0;
+IdModule  = VPAD_VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877B949;
+Reference = VREG12;
+ValeurCmp = V_REG_LDOSMD;
+IdModule  = SPARKFUN_SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5877BA11;
+Reference = XB1;
+ValeurCmp = XBEE;
+IdModule  = MAXSTREAM_XBEE;
+EndCmp
+
+EndListe
