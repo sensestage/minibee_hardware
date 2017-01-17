@@ -1,4 +1,4 @@
-update=Thu 12 Jan 2017 15:54:39 CET
+update=Tue 17 Jan 2017 14:36:53 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -31,3 +31,4 @@ LibDir=
 [eeschema/libraries]
 LibName1=MiniBee
 LibName2=power
+LibName3=device

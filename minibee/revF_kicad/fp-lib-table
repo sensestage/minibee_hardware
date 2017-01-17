@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "MiniBee")(type Legacy)(uri "/home/nescivi/git/ssdn/minibee_hw/minibee/revD_kicad3/MiniBee.mod")(options "")(descr ""))
+  (lib (name MiniBee)(type Legacy)(uri /home/nescivi/git/ssdn/minibee_hw/minibee/revF_kicad/MiniBee.mod)(options "")(descr ""))
+  (lib (name alps)(type KiCad)(uri "$(KIPRJMOD)/alps.pretty")(options "")(descr ""))
 )
