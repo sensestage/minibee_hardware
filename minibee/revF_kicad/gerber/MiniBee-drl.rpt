@@ -1,5 +1,5 @@
 Drill report for /home/nescivi/git/ssdn/minibee_hw/minibee/revF_kicad/MiniBee.kicad_pcb
-Created on Tue 17 Jan 2017 16:40:41 CET
+Created on Tue 07 Feb 2017 13:12:56 CET
 
 Copper Layer Stackup:
     =============================================================
@@ -10,12 +10,12 @@ Copper Layer Stackup:
 Drill file 'MiniBee.drl' contains
     plated through holes:
     =============================================================
-    T1  0.40mm  0.016"  (39 holes)
+    T1  0.40mm  0.016"  (38 holes)
     T2  0.60mm  0.024"  (6 holes)  (with 6 slots)
     T3  0.80mm  0.031"  (20 holes)
     T4  1.02mm  0.040"  (28 holes)
 
-    Total plated holes count 93
+    Total plated holes count 92
 
 
 Drill file 'MiniBee-NPTH.drl' contains

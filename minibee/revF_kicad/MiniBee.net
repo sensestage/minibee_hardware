@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/nescivi/git/ssdn/minibee_hw/minibee/revF_kicad/MiniBee.sch)
-    (date "Tue 17 Jan 2017 14:55:13 CET")
+    (date "Thu 26 Jan 2017 15:32:25 CET")
     (tool "Eeschema 4.0.2+dfsg1-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -615,10 +615,10 @@
         (pin (num 5) (name B) (type passive))
         (pin (num 6) (name C) (type passive)))))
   (libraries
-    (library (logical device)
-      (uri /usr/share/kicad/library/device.lib))
     (library (logical MiniBee)
-      (uri /home/nescivi/git/ssdn/minibee_hw/minibee/revF_kicad/MiniBee.lib)))
+      (uri /home/nescivi/git/ssdn/minibee_hw/minibee/revF_kicad/MiniBee.lib))
+    (library (logical device)
+      (uri /usr/share/kicad/library/device.lib)))
   (nets
     (net (code 1) (name VCC)
       (node (ref C5) (pin 1))
